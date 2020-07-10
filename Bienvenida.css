@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+    background-image: url(Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: cursive;
+    font-style: italic;
+}

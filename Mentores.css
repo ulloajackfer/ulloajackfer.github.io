@@ -1,0 +1,10 @@
+.container{
+    background-image: url(Imagenes/Fondo4.jpg);
+    opacity: 0.9;
+    text-align: center;
+    font-family: cursive;
+    font-size: 17px;
+}
+#Imagen{
+    opacity: 0.7;
+}
